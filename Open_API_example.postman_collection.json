@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "435168e6-770d-4a40-98f5-daef7cab6abf",
+		"name": "Open_API_example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20917905"
+	},
+	"item": [
+		{
+			"name": "Example_1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Example_2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
